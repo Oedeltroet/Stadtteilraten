@@ -13,6 +13,7 @@ function loadJSON(callback) {
     };
 
     obj.send(null);
+    dbLoaded = true;
 }
 
 function init() {
@@ -67,52 +68,52 @@ var score = 0;
 var highscore = 0;
 var guessed = false;
 
-loadJSON(function(response) {
-
-    db = JSON.parse(response);
-});
-
 window.onload = function() {
 
-    const staedte = document.getElementById("staedte");
-    const tr = document.createElement("tr");
+    loadJSON(function(response) {
 
-    db.Städte.forEach(element => {
-        
-        var td = document.createElement("td");
-        td.setAttribute("id", element.id);
+        db = JSON.parse(response);
 
-        td.onclick = function() {
+        const staedte = document.getElementById("staedte");
+        const tr = document.createElement("tr");
 
-            if (guessed == false) {
-                
-                guess(td);
+        db.Städte.forEach(element => {
+            
+            var td = document.createElement("td");
+            td.setAttribute("id", element.id);
 
-                window.setTimeout(function() {
+            td.onclick = function() {
 
-                    td.style.borderColor = "";
-    
-                    var n = 0;
-                    n = Math.floor(Math.random() * db.Stadtteile.length);
-    
-                    answer = db.Stadtteile[n].city;
-                    document.getElementById("stadtteil").innerHTML = db.Stadtteile[n].name;
+                if (guessed == false) {
+                    
+                    guess(td);
 
-                    guessed = false;
-                }, 3000);
-            }
-        };
+                    window.setTimeout(function() {
 
-        var img = new Image();
-        img.src = element.image;
-        img.title = element.name;
-        img.alt = element.name;
+                        td.style.borderColor = "";
 
-        td.appendChild(img);
-        tr.appendChild(td);
+                        var n = 0;
+                        n = Math.floor(Math.random() * db.Stadtteile.length);
+
+                        answer = db.Stadtteile[n].city;
+                        document.getElementById("stadtteil").innerHTML = db.Stadtteile[n].name;
+
+                        guessed = false;
+                    }, 3000);
+                }
+            };
+
+            var img = new Image();
+            img.src = element.image;
+            img.title = element.name;
+            img.alt = element.name;
+
+            td.appendChild(img);
+            tr.appendChild(td);
+        });
+
+        staedte.appendChild(tr);
+
+        init();
     });
-
-    staedte.appendChild(tr);
-
-    init();
 };
