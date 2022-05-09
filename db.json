@@ -135,6 +135,310 @@
         },
 
         {
+            "name" : "Adlershof",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Altglienicke",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Baumschulenweg",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Biesdorf",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Blankenburg",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Blankenfelde",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Borsigwalde",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Britz",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Buckow",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dahlem",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Falkenhagener Feld",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Französisch Buchholz",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Frohnau",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gatow",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gesundbrunnen",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gropiusstadt",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Grunewald",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Haselhorst",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heinersdorf",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hellersdorf",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hermsdorf",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hohenschönhausen",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Jungfernheide",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Karlshorst",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Karow",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kaulsdorf",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kladow",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lankwitz",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lichtenberg",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mahlsdorf",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Malchow",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Märkisches Viertel",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Moabit",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Müggelheim",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nikolassee",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Pichelsberg",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Plänterwald",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Reinickendorf",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rudow",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ruhleben",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rummelsburg",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Siemensstadt",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Staaken",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Stresow",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Treptow",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Waidmannslust",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wartenberg",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wedding",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wilmersdorf",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wittenau",
+            "city" : 0,
+            "level" : 1
+        },
+
+
+
+
+
+        {
             "name" : "Altona",
             "city" : 1,
             "level" : 0
@@ -225,6 +529,400 @@
         },
 
         {
+            "name" : "Allermöhe",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Alsterdorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Altengamme",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bergstedt",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Berne",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Billbrook",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Billwerder",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Borgfelde",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bramfeld",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Curslack",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dulsberg",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Duvenstedt",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eidelstedt",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eilbek",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eppendorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Farmsen",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fischbek",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Francop",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Groß Borstel",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Groß Flottbek",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gut Moor",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hamm",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hammerbrook",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Harvestehude",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hoheluft",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Horn",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hummelsbüttel",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Iserbrook",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Jenfeld",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kleiner Grasbrook",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Langenbek",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lemsahl",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lohbrügge",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lokstedt",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lurup",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Marmstorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mellingstedt",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Moorburg",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Moorfleet",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Neuengamme",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Neuwerk",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nienstedten",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ohlsdorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ohlstedt",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Osdorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Othmarschen",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ottensen",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rahlstedt",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Reitbrook",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rönneburg",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rothenburgsort",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schnelsen",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sinstorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Spadenland",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "St. Georg",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Steilshoop",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Steinwerder",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sternschanze",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Tonndorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Uhlenhorst",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Veddel",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wellingsbüttel",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wilstorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Winterhude",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wohldorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+
+
+
+
+        {
             "name" : "Connewitz",
             "city" : 7,
             "level" : 0
@@ -240,6 +938,246 @@
             "name" : "Plagwitz",
             "city" : 7,
             "level" : 0
+        },
+
+        {
+            "name" : "Abtnaundorf",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Althen",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Baalsdorf",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Böhlitz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Crottendorf",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eutritzsch",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Göbschelwitz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gottscheina",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hänichen",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heiterblick",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hohenheida",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kleinpösna",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Knautkleeberg",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Knauthain",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Knautnaundorf",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Leutzsch",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Liebertwolkwitz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lößnig",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lützschena",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Meusdorf",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Miltitz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mockau",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Möckern",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mölkau",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Paunsdorf",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Plaußig",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Portitz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Probstheida",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Quasnitz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Reudnitz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rückmarsdorf",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schleußig",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sellerhausen",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Stahmeln",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Stötteritz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Stünz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Thekla",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Thonberg",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wahren",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zschocher",
+            "city" : 7,
+            "level" : 1
         }
     ]
 }
