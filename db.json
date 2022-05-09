@@ -1,0 +1,245 @@
+{
+
+    "Städte" : [
+
+        {
+            "id" : 0,
+            "name" : "Berlin",
+            "population" : 3664088,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/e/e6/Country_symbol_of_Berlin_color.svg"
+        },
+
+        {
+            "id" : 1,
+            "name" : "Hamburg",
+            "population" : 1852478,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/5/5d/DEU_Hamburg_COA.svg"
+        },
+
+        {
+            "id" : 7,
+            "name" : "Leipzig",
+            "population" : 597493,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/4/47/Coat_of_arms_of_Leipzig.svg"
+        }
+    ],
+
+    "Schwierigkeitslevel" : [
+
+        {
+            "id" : 0,
+            "name" : "einfach"
+        },
+
+        {
+            "id" : 1,
+            "name" : "normal"
+        },
+
+        {
+            "id" : 2,
+            "name" : "schwierig"
+        }
+    ],
+
+    "Stadtteile" : [
+
+        {
+            "name" : "Charlottenburg",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Friedrichshain",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Köpenick",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Kreuzberg",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Marzahn",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Neukölln",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Pankow",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Prenzlauer Berg",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Spandau",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Steglitz",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Tegel",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Tempelhof",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Tiergarten",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Wannsee",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Zehlendorf",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Altona",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Barmbek",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Bergedorf",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Billstedt",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Blankenese",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Eimsbüttel",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Finkenwerder",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Fuhlsbüttel",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Hafencity",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Harburg",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Langenhorn",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Niendorf",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Poppenbüttel",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "St. Pauli",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Wandsbek",
+            "city" : 1,
+            "level" : 0
+        },
+
+        {
+            "name" : "Connewitz",
+            "city" : 7,
+            "level" : 0
+        },
+
+        {
+            "name" : "Gohlis",
+            "city" : 7,
+            "level" : 0
+        },
+
+        {
+            "name" : "Plagwitz",
+            "city" : 7,
+            "level" : 0
+        }
+    ]
+}
