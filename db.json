@@ -17,6 +17,13 @@
         },
 
         {
+            "id" : 2,
+            "name" : "München",
+            "population" : 1488402,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/1/17/Muenchen_Kleines_Stadtwappen.svg"
+        },
+
+        {
             "id" : 7,
             "name" : "Leipzig",
             "population" : 597493,
@@ -921,6 +928,309 @@
 
 
 
+        {
+            "name" : "Feldmoching",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Fröttmaning",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Hadern",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Moosach",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Nymphenburg",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Olympisches Dorf",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Pasing",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Perlach",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Schwabing",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Theresienhöhe",
+            "city" : 2,
+            "level" : 0
+        },
+
+        {
+            "name" : "Allach",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Am Hart",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Am Moosfeld",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Am Riesenfeld",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Au",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Aubing",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Berg am Laim",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Daglfing",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Denning",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Englschalking",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fasangarten",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Forstenried",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Freiham",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Freimann",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fürstenried",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Giesing",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Großlappen",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Haidhausen",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Harlaching",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hasenbergl",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Holzapfelkreuth",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Johanneskirchen",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Laim",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Langwied",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lehel",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Milbertshofen",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nederling",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nordhaide",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oberföhring",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Obermenzing",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oberwiesenfeld",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ramersdorf",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Riem",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schwanthalerhöhe",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sendling",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Solln",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Thalkirchen",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Trudering",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Untermenzing",
+            "city" : 2,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zamdorf",
+            "city" : 2,
+            "level" : 1
+        },
+
+
+
+
 
         {
             "name" : "Connewitz",
@@ -971,6 +1281,18 @@
         },
 
         {
+            "name" : "Dölitz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dösen",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
             "name" : "Eutritzsch",
             "city" : 7,
             "level" : 1
@@ -984,6 +1306,12 @@
 
         {
             "name" : "Gottscheina",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Grundorf",
             "city" : 7,
             "level" : 1
         },
@@ -1026,6 +1354,12 @@
 
         {
             "name" : "Knautnaundorf",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lausen",
             "city" : 7,
             "level" : 1
         },
@@ -1164,6 +1498,12 @@
 
         {
             "name" : "Thonberg",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Volkmarsdorf",
             "city" : 7,
             "level" : 1
         },

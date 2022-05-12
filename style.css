@@ -33,12 +33,17 @@ p, h1 {
 #staedte td {
 
     padding: 2pt;
-    border: 2pt solid transparent;
 }
 
-#staedte td:hover {
+#staedte p {
 
-    border-color: white;
+    opacity: 0.5;
+    margin-bottom: 10px;
+}
+
+#staedte td:hover p {
+
+    opacity: 1.0;
 }
 
 #staedte img {

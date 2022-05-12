@@ -29,9 +29,13 @@ function guess(element) {
 
     guessed = true;
 
+    var cityname = element.firstChild;
+    cityname.style.opacity = "1.0";
+
     if (element.id == answer) {
 
-        element.style.borderColor = "green";
+        cityname.style.color = "green";
+
         score++;
 
         if (score > highscore) {
@@ -43,7 +47,7 @@ function guess(element) {
 
     else {
 
-        element.style.borderColor = "red";
+        cityname.style.color = "red";
         score = 0;
     }
 
@@ -82,6 +86,15 @@ window.onload = function() {
             var td = document.createElement("td");
             td.setAttribute("id", element.id);
 
+            var cityname = document.createElement("p");
+            cityname.setAttribute("id", "cityname");
+            cityname.innerText = element.name;
+
+            var img = new Image();
+            img.src = element.image;
+            img.title = element.name;
+            img.alt = element.name;
+
             td.onclick = function() {
 
                 if (guessed == false) {
@@ -90,7 +103,7 @@ window.onload = function() {
 
                     window.setTimeout(function() {
 
-                        td.style.borderColor = "";
+                        td.firstChild.style = "";
 
                         var n = 0;
                         n = Math.floor(Math.random() * db.Stadtteile.length);
@@ -103,12 +116,9 @@ window.onload = function() {
                 }
             };
 
-            var img = new Image();
-            img.src = element.image;
-            img.title = element.name;
-            img.alt = element.name;
-
+            td.appendChild(cityname);
             td.appendChild(img);
+
             tr.appendChild(td);
         });
 
