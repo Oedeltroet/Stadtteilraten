@@ -26,13 +26,16 @@ p, h1 {
 
 #staedte {
 
-    margin-left: auto;
-    margin-right: auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 120px);
+    grid-row-gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 #staedte td {
 
-    padding: 2pt;
+    text-align: center;
 }
 
 #staedte p {

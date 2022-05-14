@@ -24,6 +24,13 @@
         },
 
         {
+            "id" : 3,
+            "name" : "Köln",
+            "population" : 1083498,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/c/c0/Wappen_Koeln.svg"
+        },
+
+        {
             "id" : 7,
             "name" : "Leipzig",
             "population" : 597493,
@@ -64,6 +71,18 @@
         },
 
         {
+            "name" : "Grunewald",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Hohenschönhausen",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
             "name" : "Köpenick",
             "city" : 0,
             "level" : 0
@@ -71,6 +90,12 @@
 
         {
             "name" : "Kreuzberg",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Lichtenberg",
             "city" : 0,
             "level" : 0
         },
@@ -106,6 +131,12 @@
         },
 
         {
+            "name" : "Schöneberg",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
             "name" : "Steglitz",
             "city" : 0,
             "level" : 0
@@ -125,6 +156,12 @@
 
         {
             "name" : "Tiergarten",
+            "city" : 0,
+            "level" : 0
+        },
+
+        {
+            "name" : "Treptow",
             "city" : 0,
             "level" : 0
         },
@@ -190,6 +227,12 @@
         },
 
         {
+            "name" : "Buch",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
             "name" : "Buckow",
             "city" : 0,
             "level" : 1
@@ -208,7 +251,31 @@
         },
 
         {
+            "name" : "Fennpfuhl",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
             "name" : "Französisch Buchholz",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Friedenau",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Friedrichsfelde",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Friedrichshagen",
             "city" : 0,
             "level" : 1
         },
@@ -238,7 +305,19 @@
         },
 
         {
-            "name" : "Grunewald",
+            "name" : "Hakenfelde",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Halensee",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hansaviertel",
             "city" : 0,
             "level" : 1
         },
@@ -263,12 +342,6 @@
 
         {
             "name" : "Hermsdorf",
-            "city" : 0,
-            "level" : 1
-        },
-
-        {
-            "name" : "Hohenschönhausen",
             "city" : 0,
             "level" : 1
         },
@@ -310,7 +383,13 @@
         },
 
         {
-            "name" : "Lichtenberg",
+            "name" : "Lichtenrade",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lübars",
             "city" : 0,
             "level" : 1
         },
@@ -341,6 +420,12 @@
 
         {
             "name" : "Müggelheim",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Niederschönhausen",
             "city" : 0,
             "level" : 1
         },
@@ -388,6 +473,24 @@
         },
 
         {
+            "name" : "Schlachtensee",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schmargendorf",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schmöckwitz",
+            "city" : 0,
+            "level" : 1
+        },
+
+        {
             "name" : "Siemensstadt",
             "city" : 0,
             "level" : 1
@@ -401,12 +504,6 @@
 
         {
             "name" : "Stresow",
-            "city" : 0,
-            "level" : 1
-        },
-
-        {
-            "name" : "Treptow",
             "city" : 0,
             "level" : 1
         },
@@ -590,6 +687,12 @@
         },
 
         {
+            "name" : "Cranz",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
             "name" : "Curslack",
             "city" : 1,
             "level" : 1
@@ -615,6 +718,12 @@
 
         {
             "name" : "Eilbek",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eißendorf",
             "city" : 1,
             "level" : 1
         },
@@ -675,6 +784,12 @@
 
         {
             "name" : "Harvestehude",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hausbruch",
             "city" : 1,
             "level" : 1
         },
@@ -830,6 +945,12 @@
         },
 
         {
+            "name" : "Rissen",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
             "name" : "Rönneburg",
             "city" : 1,
             "level" : 1
@@ -837,6 +958,12 @@
 
         {
             "name" : "Rothenburgsort",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sasel",
             "city" : 1,
             "level" : 1
         },
@@ -878,7 +1005,19 @@
         },
 
         {
+            "name" : "Stellingen",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
             "name" : "Sternschanze",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sülldorf",
             "city" : 1,
             "level" : 1
         },
@@ -1225,6 +1364,460 @@
         {
             "name" : "Zamdorf",
             "city" : 2,
+            "level" : 1
+        },
+
+
+
+
+
+        {
+            "name" : "Chorweiler",
+            "city" : 3,
+            "level" : 0
+        },
+
+        {
+            "name" : "Deutz",
+            "city" : 3,
+            "level" : 0
+        },
+
+        {
+            "name" : "Ehrenfeld",
+            "city" : 3,
+            "level" : 0
+        },
+
+        {
+            "name" : "Kalk",
+            "city" : 3,
+            "level" : 0
+        },
+
+        {
+            "name" : "Porz",
+            "city" : 3,
+            "level" : 0
+        },
+
+        {
+            "name" : "Auweiler",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bayernthal",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bickendorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bilderstöckchen",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bocklemünd",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Braunsfeld",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Brück",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Buchforst",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Buchheim",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dellbrück",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dünnwald",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eil",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Elsdorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ensen",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Esch",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Flittard",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fühlingen",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Godorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gremberg",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gremberghoven",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Grengel",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hahnwald",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heimersdorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heumar",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Höhenhaus",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Holweide",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Humboldt",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Immendorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Junkersdorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Klettenberg",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Langel",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Libur",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lind",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lindweiler",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Longerich",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lövenich",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mauenheim",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mengenich",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Menschenich",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Merheim",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Merkenich",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Müngersdorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Niehl",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nippes",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ossendorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Pesch",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Poll",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Raderberg",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Raderthal",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rath",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Riehl",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rodenkirchen",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Roggendorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rondorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Stammheim",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sülz",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sürth",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Thenhoven",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Vingst",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Vogelsang",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Volkhoven",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wahn",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wahnheide",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Weiden",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Weidenpesch",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Westhoven",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Widdersdorf",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Worringen",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zollstock",
+            "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zündorf",
+            "city" : 3,
             "level" : 1
         },
 

@@ -79,7 +79,7 @@ window.onload = function() {
         db = JSON.parse(response);
 
         const staedte = document.getElementById("staedte");
-        const tr = document.createElement("tr");
+        //const tr = document.createElement("tr");
 
         db.Städte.forEach(element => {
             
@@ -119,10 +119,9 @@ window.onload = function() {
             td.appendChild(cityname);
             td.appendChild(img);
 
-            tr.appendChild(td);
+            //tr.appendChild(td);
+            staedte.appendChild(td);
         });
-
-        staedte.appendChild(tr);
 
         init();
     });
