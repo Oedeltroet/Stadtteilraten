@@ -11,11 +11,21 @@ body {
     background-color: rgb(20, 20, 40);
 }
 
-p, h1 {
+p, label {
 
     color: white;
     text-align: center;
     font-family: Helvetica;
+}
+
+hr {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    border: 1px solid rgb(30, 30, 60);
 }
 
 #stadtteil {
@@ -57,4 +67,16 @@ p, h1 {
 #scoreboard {
 
     margin-top: 20px;
+}
+
+#levels {
+
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkbox-container input {
+
+    margin-right: 5px;
 }

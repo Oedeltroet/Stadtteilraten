@@ -31,6 +31,13 @@
         },
 
         {
+            "id" : 4,
+            "name" : "Frankfurt",
+            "population" : 764104,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Wappen_Frankfurt_am_Main_nach_Klemens_Stadler.svg/229px-Wappen_Frankfurt_am_Main_nach_Klemens_Stadler.svg.png"
+        },
+
+        {
             "id" : 7,
             "name" : "Leipzig",
             "population" : 597493,
@@ -536,6 +543,126 @@
             "name" : "Wittenau",
             "city" : 0,
             "level" : 1
+        },
+
+        {
+            "name" : "Bohnsdorf",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Falkenberg",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Friedrichstadt",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Heiligensee",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hirschgarten",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Konradshöhe",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Johannisthal",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Lichterfelde",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Mariendorf",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Marienfelde",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Rahnsdorf",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Rosenthal",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Schöneweide",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Schönfließ",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Spindlersfeld",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Stralau",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Weißensee",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Wilhelmsruh",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Wilhelmstadt",
+            "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Witzleben",
+            "city" : 0,
+            "level" : 2
         },
 
 
@@ -1064,6 +1191,96 @@
             "level" : 1
         },
 
+        {
+            "name" : "Altenwerder",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Bahrenfeld",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Heimfeld",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hohenfelde",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Kirchwerder",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Marienthal",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Neuenfelde",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Neugraben",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Neuland",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Ochsenwerder",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Rotherbaum",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Tatenberg",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Volkdorf",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Waltershof",
+            "city" : 1,
+            "level" : 2
+        },
+
+        {
+            "name" : "Wilhelmsburg",
+            "city" : 1,
+            "level" : 2
+        },
+
 
 
 
@@ -1365,6 +1582,66 @@
             "name" : "Zamdorf",
             "city" : 2,
             "level" : 1
+        },
+
+        {
+            "name" : "Baumkirchen",
+            "city" : 2,
+            "level" : 2
+        },
+
+        {
+            "name" : "Blumenau",
+            "city" : 2,
+            "level" : 2
+        },
+
+        {
+            "name" : "Bogenhausen",
+            "city" : 2,
+            "level" : 2
+        },
+
+        {
+            "name" : "Gerberau",
+            "city" : 2,
+            "level" : 2
+        },
+
+        {
+            "name" : "Harthof",
+            "city" : 2,
+            "level" : 2
+        },
+
+        {
+            "name" : "Lerchenau",
+            "city" : 2,
+            "level" : 2
+        },
+
+        {
+            "name" : "Lochhausen",
+            "city" : 2,
+            "level" : 2
+        },
+
+        {
+            "name" : "Neuhausen",
+            "city" : 2,
+            "level" : 2
+        },
+
+        {
+            "name" : "Steinhausen",
+            "city" : 2,
+            "level" : 2
+        },
+
+        {
+            "name" : "Westpark",
+            "city" : 2,
+            "level" : 2
         },
 
 
@@ -1821,6 +2098,298 @@
             "level" : 1
         },
 
+        {
+            "name" : "Blumenberg",
+            "city" : 3,
+            "level" : 2
+        },
+
+        {
+            "name" : "Finkenberg",
+            "city" : 3,
+            "level" : 2
+        },
+
+        {
+            "name" : "Höhenberg",
+            "city" : 3,
+            "level" : 2
+        },
+
+        {
+            "name" : "Marienburg",
+            "city" : 3,
+            "level" : 2
+        },
+
+        {
+            "name" : "Neubrück",
+            "city" : 3,
+            "level" : 2
+        },
+
+        {
+            "name" : "Ostheim",
+            "city" : 3,
+            "level" : 2
+        },
+
+        {
+            "name" : "Seeberg",
+            "city" : 3,
+            "level" : 2
+        },
+
+        {
+            "name" : "Urbach",
+            "city" : 3,
+            "level" : 2
+        },
+
+        {
+            "name" : "Weiler",
+            "city" : 3,
+            "level" : 2
+        },
+
+        {
+            "name" : "Weiß",
+            "city" : 3,
+            "level" : 2
+        },
+
+
+
+
+
+        {
+            "name" : "Bahnhofsviertel",
+            "city" : 4,
+            "level" : 0
+        },
+
+        {
+            "name" : "Bockenheim",
+            "city" : 4,
+            "level" : 0
+        },
+
+        {
+            "name" : "Heddernheim",
+            "city" : 4,
+            "level" : 0
+        },
+
+        {
+            "name" : "Höchst",
+            "city" : 4,
+            "level" : 0
+        },
+
+        {
+            "name" : "Niederrad",
+            "city" : 4,
+            "level" : 0
+        },
+
+        {
+            "name" : "Sachsenhausen",
+            "city" : 4,
+            "level" : 0
+        },
+
+        {
+            "name" : "Berkersheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bonames",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eckenheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Enkheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eschersheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fechenheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gallus",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ginnheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Griesheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gutleutviertel",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kalbach",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nied",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nieder-Erlenbach",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nieder-Eschbach",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Niederursel",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oberrad",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Praunheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Preungesheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Riederwald",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rödelheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Seckbach",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sindlingen",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sossenheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Unterliederbach",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zeilsheim",
+            "city" : 4,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bergen",
+            "city" : 4,
+            "level" : 2
+        },
+
+        {
+            "name" : "Bornheim",
+            "city" : 4,
+            "level" : 2
+        },
+
+        {
+            "name" : "Dornbusch",
+            "city" : 4,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hartheim",
+            "city" : 4,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hausen",
+            "city" : 4,
+            "level" : 2
+        },
+
+        {
+            "name" : "Riedberg",
+            "city" : 4,
+            "level" : 2
+        },
+
+        {
+            "name" : "Schwanheim",
+            "city" : 4,
+            "level" : 2
+        },
+
 
 
 
@@ -2111,6 +2680,90 @@
             "name" : "Zschocher",
             "city" : 7,
             "level" : 1
+        },
+
+        {
+            "name" : "Anger",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Breitenfeld",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Burghausen",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Ehrenberg",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Engelsdorf",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hartmannsdorf",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hirschfeld",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Holzhausen",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Lindenau",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Marienbrunn",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Schönau",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Schönefeld",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Seehausen",
+            "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Sommerfeld",
+            "city" : 7,
+            "level" : 2
         }
     ]
 }

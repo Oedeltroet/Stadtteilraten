@@ -16,15 +16,6 @@ function loadJSON(callback) {
     dbLoaded = true;
 }
 
-function init() {
-
-    var n = 0;
-    n = Math.floor(Math.random() * db.Stadtteile.length);
-
-    answer = db.Stadtteile[n].city;
-    document.getElementById("stadtteil").innerHTML = db.Stadtteile[n].name;
-}
-
 function guess(element) {
 
     guessed = true;
@@ -78,8 +69,9 @@ window.onload = function() {
 
         db = JSON.parse(response);
 
+            // STAEDTE
+
         const staedte = document.getElementById("staedte");
-        //const tr = document.createElement("tr");
 
         db.Städte.forEach(element => {
             
@@ -106,23 +98,109 @@ window.onload = function() {
                         td.firstChild.style = "";
 
                         var n = 0;
-                        n = Math.floor(Math.random() * db.Stadtteile.length);
+
+                        do {
+                            
+                            n = Math.floor(Math.random() * db.Stadtteile.length);
+                        }
+
+                        while (!levels[db.Stadtteile[n].level]);
 
                         answer = db.Stadtteile[n].city;
                         document.getElementById("stadtteil").innerHTML = db.Stadtteile[n].name;
 
                         guessed = false;
-                    }, 3000);
+                    }, 2000);
                 }
             };
 
             td.appendChild(cityname);
             td.appendChild(img);
 
-            //tr.appendChild(td);
             staedte.appendChild(td);
         });
 
-        init();
+            // SCHWIERIGKEITSGRADE
+
+        const levels = new Array(db.Schwierigkeitslevel.length).fill(true);
+        const levelSelector = document.getElementById("levels");
+
+        for (var i = 0; i < db.Schwierigkeitslevel.length; i++) {
+
+            var levelName = db.Schwierigkeitslevel[i].name;
+
+            var checkboxContainer = document.createElement("div");
+            checkboxContainer.setAttribute("class", "checkbox-container");
+
+            var checkbox = document.createElement("input");
+            checkbox.type = "checkbox";
+            checkbox.name = levelName;
+            checkbox.checked = levels[i];
+
+            checkbox.onclick = function() {
+
+                var parent = checkbox.parentElement.parentElement;
+
+                for (var j = 0; j < parent.childElementCount; j++) {
+
+                    levels[j] = parent.children[j].children[0].checked ? true : false;
+                }
+
+                    // make sure that at leat one checkbox is always checked
+
+                var count = 0;
+
+                for (var j = 0; j < levels.length; j++) {
+
+                    if (levels[j] == true) {
+
+                        count++;
+                    }
+                }
+
+                if (count <= 1) {
+
+                    for (var j = 0; j < levels.length; j++) {
+
+                        if (levels[j] == true) {
+
+                            parent.children[j].children[0].disabled = true;
+                            break;
+                        }
+                    }
+                }
+
+                else {
+
+                    for (var j = 0; j < levels.length; j++) {
+
+                        parent.children[j].children[0].disabled = false;
+                    }
+                }
+
+                console.log(levels);
+            }
+
+            var label = document.createElement("label");
+            label.for = levelName;
+            label.innerText = levelName;
+
+            checkboxContainer.appendChild(checkbox);
+            checkboxContainer.appendChild(label);
+
+            levelSelector.appendChild(checkboxContainer);
+        };
+
+        var n = 0;
+
+        do {
+            
+            n = Math.floor(Math.random() * db.Stadtteile.length);
+        }
+
+        while (!levels[db.Stadtteile[n].level]);
+
+        answer = db.Stadtteile[n].city;
+        document.getElementById("stadtteil").innerHTML = db.Stadtteile[n].name;
     });
 };
