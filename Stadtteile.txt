@@ -3,7 +3,7 @@ NICHT BEACHTET
 - Zentrum, Mitte etc.
 - ALtstadt, Neustadt, Vorstadt etc.
 
-	BERLIN (100)
+	BERLIN (101)
 einfach (20)
 - Charlottenburg
 - Friedrichshain
@@ -86,7 +86,7 @@ mittel (60)
 - Wedding
 - Wilmersdorf
 - Wittenau
-schwierig (20)
+schwierig (21)
 - Bohnsdorf
 - Falkenberg
 - Friedrichstadt
@@ -366,7 +366,7 @@ schwierig (10)
 ! - Lindenthal
 - Marienburg
 - Neubrück
-- Ostheim
+! - Ostheim
 - Seeberg
 - Urbach
 - Weiler
@@ -406,14 +406,123 @@ mittel (25)
 - Sossenheim
 - Unterliederbach
 - Zeilsheim
-schwierig (7)
+schwierig (6)
 - Bergen
 - Bornheim
 - Dornbusch
 - Hartheim
-- Hausen
+! - Hausen
 - Riedberg
 - Schwanheim
+
+	STUTTGART (104)
+einfach (8)
+- Bad Cannstadt
+- Benzviertel
+- Feuerbach
+- Möhringen
+- Obertürkheim
+- Stammheim
+- Untertürkheim
+- Vaihingen
+mittel (74)
+- Asemwald
+- Birkach
+- Birkenäcker
+- Bopser
+- Botnang
+- Bruckwiesen
+- Burgholzhof
+- Büsnau
+- Chausseefeld
+- Dachswald
+- Degerloch
+- Diemershalde
+- Dobel
+- Dürrlewang
+- Espan
+- Feuersee
+- Fasanenhof
+- Flohberg
+- Frauenkopf
+- Gablenberg
+- Gaisburg
+- Gänsheide
+- Gehrenwald
+- Giebel
+- Haigst
+- Hallschlag
+- Hasenberg
+- Hedelfingen
+- Heslach
+- Heumaden
+- Heusteigviertel
+- Hofen
+- Höhenrand
+- Im Geiger
+- Kaltental
+- Kernerviertel
+- Killesberg
+- Kräherwald
+- Lauchäcker
+- Lehen
+- Lemberg/Föhrich
+- Lenzhalde
+- Lindenschulviertel
+- Luginsland
+- Mönchhalde
+- Muckensturm
+- Mühlhausen
+- Münster
+- Neugereut
+- Österfeld
+- Pfaffenwald
+- Plieningen
+- Relenberg
+- Riedenberg
+- Rohr
+- Rohracker
+- Rotebühl
+- Seelberg
+- Siegelberg
+- Sillenbuch
+- Solitude
+- Sommerrain
+- Steckfeld
+- Steinhaldenfeld
+- Stöckach
+- Uhlandshöhe
+- Uhlbach
+- Veielbrunnen
+- Wangen
+- Weilimdorf
+- Weinsteige
+- Winterhalde
+- Zazenhausen
+- Zuffenhausen
+schwierig (22)
+- Altenburg
+- Berg
+- Bergheim
+- Freiberg
+- Karlshöhe
+! - Hausen
+- Hoffeld
+- Hohe Warte
+- Hohenheim
+- Mönchfeld
+! - Ostheim
+- Rosenberg
+- Rosental
+- Rot
+- Rotenberg
+- Schönberg
+- Sonnenberg
+- Südheim
+- Vogelsang
+- Waldau
+- Weißenhof
+- Wolfbusch
 
 	LEIPZIG (63)
 einfach (3)

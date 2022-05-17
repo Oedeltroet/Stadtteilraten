@@ -23,7 +23,7 @@ function guess(element) {
     var cityname = element.firstChild;
     cityname.style.opacity = "1.0";
 
-    if (element.id == answer) {
+    if (element.id == answer || (Array.isArray(answer) && answer.includes(parseInt(element.id)))) {
 
         cityname.style.color = "green";
 
@@ -120,6 +120,18 @@ window.onload = function() {
             staedte.appendChild(td);
         });
 
+            // STADTTEILE
+
+        var anzahlStadtteile = Array(db.Schwierigkeitslevel.length);
+        anzahlStadtteile.fill(0);
+
+        db.Stadtteile.forEach(element => {
+            
+            anzahlStadtteile[element.level]++;
+        });
+
+        //console.log(anzahlStadtteile);
+
             // SCHWIERIGKEITSGRADE
 
         const levels = new Array(db.Schwierigkeitslevel.length).fill(true);
@@ -178,12 +190,12 @@ window.onload = function() {
                     }
                 }
 
-                console.log(levels);
+                //console.log(levels);
             }
 
             var label = document.createElement("label");
             label.for = levelName;
-            label.innerText = levelName;
+            label.innerText = levelName + " (" + anzahlStadtteile[i] + ")";
 
             checkboxContainer.appendChild(checkbox);
             checkboxContainer.appendChild(label);

@@ -38,6 +38,13 @@
         },
 
         {
+            "id" : 5,
+            "name" : "Stuttgart",
+            "population" : 630305,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/f/f8/Coat_of_arms_of_Stuttgart.svg"
+        },
+
+        {
             "id" : 7,
             "name" : "Leipzig",
             "population" : 597493,
@@ -560,6 +567,12 @@
         {
             "name" : "Friedrichstadt",
             "city" : 0,
+            "level" : 2
+        },
+
+        {
+            "name" : "Grünau",
+            "city" : [0, 7],
             "level" : 2
         },
 
@@ -2117,6 +2130,12 @@
         },
 
         {
+            "name" : "Lindenthal",
+            "city" : [3, 7],
+            "level" : 2
+        },
+
+        {
             "name" : "Marienburg",
             "city" : 3,
             "level" : 2
@@ -2130,7 +2149,7 @@
 
         {
             "name" : "Ostheim",
-            "city" : 3,
+            "city" : [3, 5],
             "level" : 2
         },
 
@@ -2374,7 +2393,7 @@
 
         {
             "name" : "Hausen",
-            "city" : 4,
+            "city" : [4, 5],
             "level" : 2
         },
 
@@ -2387,6 +2406,622 @@
         {
             "name" : "Schwanheim",
             "city" : 4,
+            "level" : 2
+        },
+
+
+
+
+
+        {
+            "name" : "Bad Cannstadt",
+            "city" : 5,
+            "level" : 0
+        },
+
+        {
+            "name" : "Benzviertel",
+            "city" : 5,
+            "level" : 0
+        },
+
+        {
+            "name" : "Feuerbach",
+            "city" : 5,
+            "level" : 0
+        },
+
+        {
+            "name" : "Möhringen",
+            "city" : 5,
+            "level" : 0
+        },
+
+        {
+            "name" : "Obertürkheim",
+            "city" : 5,
+            "level" : 0
+        },
+
+        {
+            "name" : "Stammheim",
+            "city" : 5,
+            "level" : 0
+        },
+
+        {
+            "name" : "Untertürkheim",
+            "city" : 5,
+            "level" : 0
+        },
+
+        {
+            "name" : "Vaihingen",
+            "city" : 5,
+            "level" : 0
+        },
+
+        {
+            "name" : "Asemwald",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Birkach",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Birkenäcker",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bopser",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Botnang",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bruckwiesen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Burgholzhof",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Büsnau",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Chausseefeld",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dachswald",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Degerloch",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Diemershalde",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dobel",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dürrlewang",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Espan",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Feuersee",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fasanenhof",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Flohberg",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Frauenkopf",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gablenberg",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gaisburg",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gänsheide",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gehrenwald",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Giebel",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Haigst",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hallschlag",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hasenberg",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hedelfingen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heslach",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heumaden",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heusteigviertel",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hofen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Höhenrad",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Im Geiger",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kaltental",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kernerviertel",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Killesberg",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kräherwald",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lauchäcker",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lehen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lemberg/Föhrich",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lenzhalde",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lindenschulviertel",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Luginsland",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mönchhalde",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Muckensturm",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mühlhausen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Münster",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Neugereut",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Österfeld",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Pfaffenwald",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Plieningen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Relenberg",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Riedenberg",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rohr",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rohracker",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rotebühl",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Seelberg",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Siegelberg",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sillenbuch",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Solitude",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sommerrain",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Steckfeld",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Steinhaldenfeld",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Stöckach",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Uhlandshöhe",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Uhlbach",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Veielbrunnen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wangen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Weilimdorf",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Weinsteige",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Winterhalde",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zazenhausen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zuffenhausen",
+            "city" : 5,
+            "level" : 1
+        },
+
+        {
+            "name" : "Altenburg",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Berg",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Bergheim",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Freiberg",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Karlshöhe",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hoffeld",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hohe Warte",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hohenheim",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Mönchfeld",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Rosenberg",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Rosental",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Rot",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Rotenberg",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Schönberg",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Sonnenberg",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Südheim",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Vogelsang",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Waldau",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Weißenhof",
+            "city" : 5,
+            "level" : 2
+        },
+
+        {
+            "name" : "Wolfbusch",
+            "city" : 5,
             "level" : 2
         },
 
