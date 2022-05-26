@@ -25,7 +25,7 @@ function guess(element) {
 
     if (element.id == answer || (Array.isArray(answer) && answer.includes(parseInt(element.id)))) {
 
-        cityname.style.color = "green";
+        cityname.style.color = "rgb(0,200,0)";
 
         score++;
 
@@ -40,6 +40,27 @@ function guess(element) {
 
         cityname.style.color = "red";
         score = 0;
+
+        var correctCity;
+
+        if (Array.isArray(answer)) {
+
+            answer.forEach(cityId => {
+
+                console.log(element.parentElement);
+
+                correctCity = document.getElementById(cityId).firstChild;
+                correctCity.style.opacity = 1.0;
+                correctCity.style.animation = "blink 1s steps(4, start) infinite";
+            });
+        }
+
+        else {
+
+            correctCity = document.getElementById(answer).firstChild;
+            correctCity.style.opacity = 1.0;
+            correctCity.style.animation = "blink 1s steps(4, start) infinite";
+        }
     }
 
     updateScore();
@@ -96,6 +117,19 @@ window.onload = function() {
                     window.setTimeout(function() {
 
                         td.firstChild.style = "";
+
+                        if (Array.isArray(answer)) {
+
+                            answer.forEach(cityId => {
+
+                                document.getElementById(cityId).firstChild.style = "";
+                            });
+                        }
+
+                        else {
+
+                            document.getElementById(answer).firstChild.style = "";
+                        }
 
                         var n = 0;
 
@@ -211,6 +245,8 @@ window.onload = function() {
         }
 
         while (!levels[db.Stadtteile[n].level]);
+
+        //n = 83; // Test: Grünau (for multiple choice)
 
         answer = db.Stadtteile[n].city;
         document.getElementById("stadtteil").innerHTML = db.Stadtteile[n].name;

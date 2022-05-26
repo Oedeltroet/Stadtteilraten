@@ -80,3 +80,16 @@ hr {
 
     margin-right: 5px;
 }
+
+@keyframes blink {
+
+    0%, 50%, 100% {
+        
+        color: white;
+    }
+
+    25%, 75% {
+        
+        color: rgb(0, 200, 0);
+    }
+}

@@ -45,6 +45,13 @@
         },
 
         {
+            "id" : 6,
+            "name" : "Düsseldorf",
+            "population" : 620523,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/8/83/DEU_D%C3%BCsseldorf_COA.svg"
+        },
+
+        {
             "id" : 7,
             "name" : "Leipzig",
             "population" : 597493,
@@ -566,7 +573,7 @@
 
         {
             "name" : "Friedrichstadt",
-            "city" : 0,
+            "city" : [0, 6],
             "level" : 2
         },
 
@@ -912,7 +919,7 @@
 
         {
             "name" : "Hamm",
-            "city" : 1,
+            "city" : [1, 6],
             "level" : 1
         },
 
@@ -3022,6 +3029,268 @@
         {
             "name" : "Wolfbusch",
             "city" : 5,
+            "level" : 2
+        },
+
+
+
+
+
+        {
+            "name" : "Benrath",
+            "city" : 6,
+            "level" : 0
+        },
+
+        {
+            "name" : "Düsseltal",
+            "city" : 6,
+            "level" : 0
+        },
+
+        {
+            "name" : "Rath",
+            "city" : 6,
+            "level" : 0
+        },
+
+        {
+            "name" : "Angermund",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bilk",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Carlstadt",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Derendorf",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eller",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Flehe",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Flingern",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Garath",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gerresheim",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Golzheim",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hassels",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heerdt",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hellerhof",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Himmelgeist",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Holthausen",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hubbelrath",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Itter",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kaiserswerth",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kalkum",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Knittkuhl",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lörick",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lichtenbroich",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lierenfeld",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lohausen",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ludenberg",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mörsenbroich",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Niederkassel",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oberkassel",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Pempelfort",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Reisholz",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Stockum",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Unterrath",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Urdenbach",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Vennhausen",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Volmerswerth",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wersten",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wittlaer",
+            "city" : 6,
+            "level" : 1
+        },
+
+        {
+            "name" : "Grafenberg",
+            "city" : 6,
+            "level" : 2
+        },
+
+        {
+            "name" : "Hafen",
+            "city" : 6,
+            "level" : 2
+        },
+
+        {
+            "name" : "Unterbach",
+            "city" : 6,
             "level" : 2
         },
 

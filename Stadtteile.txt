@@ -1,7 +1,7 @@
 NICHT BEACHTET
 - Nord, Süd, Ost, West etc.
 - Zentrum, Mitte etc.
-- ALtstadt, Neustadt, Vorstadt etc.
+- Altstadt, Neustadt, Vorstadt etc.
 
 	BERLIN (101)
 einfach (20)
@@ -523,6 +523,56 @@ schwierig (22)
 - Waldau
 - Weißenhof
 - Wolfbusch
+
+	DÜSSELDORF (47)
+einfach (3)
+- Benrath
+- Düsseltal
+- Rath
+mittel (38)
+- Angermund
+- Bilk
+- Carlstadt
+- Derendorf
+- Eller
+- Flehe
+- Flingern
+- Garath
+- Gerresheim
+- Golzheim
+! - Hamm
+- Hassels
+- Heerdt
+- Hellerhof
+- Himmelgeist
+- Holthausen
+- Hubbelrath
+- Itter
+- Kaiserswerth
+- Kalkum
+- Knittkuhl
+- Lörick
+- Lichtenbroich
+- Lierenfeld
+- Lohausen
+- Ludenberg
+- Mörsenbroich
+- Niederkassel
+- Oberkassel
+- Pempelfort
+- Reisholz
+- Stockum
+- Unterrath
+- Urdenbach
+- Vennhausen
+- Volmerswerth
+- Wersten
+- Wittlaer
+schwierig (3)
+! - Friedrichstadt
+- Grafenberg
+- Hafen
+- Unterbach
 
 	LEIPZIG (63)
 einfach (3)
