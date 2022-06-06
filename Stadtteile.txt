@@ -288,7 +288,7 @@ einfach (5)
 - Ehrenfeld
 - Kalk
 - Porz
-mittel (70)
+mittel (69)
 - Auweiler
 - Bayernthal
 - Bickendorf
@@ -348,7 +348,6 @@ mittel (70)
 - Sürth
 - Thenhoven
 - Vingst
-- Vogelsang
 - Volkhoven
 - Wahn
 - Wahnheide
@@ -359,7 +358,7 @@ mittel (70)
 - Worringen
 - Zollstock
 - Zündorf
-schwierig (10)
+schwierig (11)
 - Blumenberg
 - Finkenberg
 - Höhenberg
@@ -369,6 +368,7 @@ schwierig (10)
 ! - Ostheim
 - Seeberg
 - Urbach
+! - Vogelsang
 - Weiler
 - Weiß
 
@@ -519,7 +519,7 @@ schwierig (22)
 - Schönberg
 - Sonnenberg
 - Südheim
-- Vogelsang
+! - Vogelsang
 - Waldau
 - Weißenhof
 - Wolfbusch
@@ -571,7 +571,7 @@ mittel (38)
 schwierig (3)
 ! - Friedrichstadt
 - Grafenberg
-- Hafen
+! - Hafen
 - Unterbach
 
 	LEIPZIG (63)
@@ -638,7 +638,92 @@ schwierig (14)
 - Lindenau
 ! - Lindenthal
 - Marienbrunn
-- Schönau
+! - Schönau
 - Schönefeld
 - Seehausen
 - Sommerfeld
+
+DORTMUND (80)
+einfach (1)
+- Lütgendortmund
+mittel (71)
+- Altenderne
+- Aplerbeck
+- Asseln
+- Barop
+- Benninghofen
+- Bittermark
+- Bodelschwingh
+- Bövinghausen
+- Brackel
+- Brechten
+- Brünninghausen
+- Buchholz
+- Clarenberg
+- Deipenbeck
+- Derne
+- Deusen
+- Dorstfeld
+- Eichlinghofen
+- Ellinghausen
+- Eving
+- Grevel
+- Groppenbruch
+- Hacheney
+- Hallerey
+- Hangeney
+- Höchsten
+- Holte
+- Holthausen
+- Holzen
+- Hombruch
+- Hörde
+- Hostedde
+- Huckarde
+- Husen
+- Kirchderne
+- Kirchhörde
+- Kley
+- Körne
+- Kruckel
+- Kurl
+- Lanstrop
+- Loh
+- Löttringhausen
+- Lücklemberg
+- Mailoh
+- Marten
+- Mengede
+- Menglinghausen
+- Nette
+- Oespel
+- Oestrich
+- Persebeck
+- Rahm
+- Renninghausen
+- Rombergpark
+- Salingen
+- Scharnhorst
+- Schnee
+- Schüren
+- Schwieringhausen
+- Sölde
+- Sölderholz
+- Somborn
+- Syburg
+- Wambel
+- Wellinghofen
+- Westerfilde
+- Westrich
+- Wichlinghofen
+- Wickede
+- Wischlingen
+schwierig (8)
+- Berghofen
+! - Hafen
+- Jungferntal
+- Kirchlinde
+- Lichtendorf
+- Lindenhorst
+- Schanze
+! - Schönau

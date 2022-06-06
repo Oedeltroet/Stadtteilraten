@@ -56,6 +56,13 @@
             "name" : "Leipzig",
             "population" : 597493,
             "image" : "https://upload.wikimedia.org/wikipedia/commons/4/47/Coat_of_arms_of_Leipzig.svg"
+        },
+
+        {
+            "id" : 8,
+            "name" : "Dortmund",
+            "population" : 587696,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/f/f9/DEU_Dortmund_COA.svg"
         }
     ],
 
@@ -2024,7 +2031,7 @@
 
         {
             "name" : "Stammheim",
-            "city" : 3,
+            "city" : [3, 5],
             "level" : 1
         },
 
@@ -2048,12 +2055,6 @@
 
         {
             "name" : "Vingst",
-            "city" : 3,
-            "level" : 1
-        },
-
-        {
-            "name" : "Vogelsang",
             "city" : 3,
             "level" : 1
         },
@@ -2170,6 +2171,12 @@
             "name" : "Urbach",
             "city" : 3,
             "level" : 2
+        },
+
+        {
+            "name" : "Vogelsang",
+            "city" : [3, 5],
+            "level" : 1
         },
 
         {
@@ -2446,12 +2453,6 @@
 
         {
             "name" : "Obertürkheim",
-            "city" : 5,
-            "level" : 0
-        },
-
-        {
-            "name" : "Stammheim",
             "city" : 5,
             "level" : 0
         },
@@ -3009,12 +3010,6 @@
         },
 
         {
-            "name" : "Vogelsang",
-            "city" : 5,
-            "level" : 2
-        },
-
-        {
             "name" : "Waldau",
             "city" : 5,
             "level" : 2
@@ -3284,7 +3279,7 @@
 
         {
             "name" : "Hafen",
-            "city" : 6,
+            "city" : [6, 8],
             "level" : 2
         },
 
@@ -3648,7 +3643,7 @@
 
         {
             "name" : "Schönau",
-            "city" : 7,
+            "city" : [7, 8],
             "level" : 2
         },
 
@@ -3667,6 +3662,484 @@
         {
             "name" : "Sommerfeld",
             "city" : 7,
+            "level" : 2
+        },
+
+        {
+            "name" : "Waldstraßenviertel",
+            "city" : 7,
+            "level" : 2
+        },
+
+
+
+
+
+        {
+            "name" : "Lütgendortmund",
+            "city" : 8,
+            "level" : 0
+        },
+
+        {
+            "name" : "Altenderne",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Aplerbeck",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Asseln",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Barop",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Benninghofen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bittermark",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bondelschwingh",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bövinghausen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Brackel",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Brechten",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Brünninghausen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Buchholz",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Clarenberg",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Deipenbeck",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Derne",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Deusen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dorstfeld",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eichlinghofen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ellinghausen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eving",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Grevel",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Groppenbruch",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hacheney",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hallerey",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hangeney",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Höchsten",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Holte",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Holthausen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Holzen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hombruch",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hörde",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hostedde",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Huckarde",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Husen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kirchderne",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kirchhörde",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kley",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Körne",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kruckel",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kurl",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lanstrop",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Loh",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Löttringhausen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lücklemberg",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mailoh",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Marten",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mengede",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Menglinghausen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nette",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oespel",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oestrich",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Persebeck",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rahm",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Renninghausen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rombergpark",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Salingen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Scharnhorst",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schnee",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schüren",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schwieringhausen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sölde",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sölderholz",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Somborn",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Syburg",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wambel",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wellinghofen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Westerfilde",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Westrich",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wichlinghofen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wickede",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wischlingen",
+            "city" : 8,
+            "level" : 1
+        },
+
+        {
+            "name" : "Berghofen",
+            "city" : 8,
+            "level" : 2
+        },
+
+        {
+            "name" : "Jungferntal",
+            "city" : 8,
+            "level" : 2
+        },
+
+        {
+            "name" : "Kirchlinde",
+            "city" : 8,
+            "level" : 2
+        },
+
+        {
+            "name" : "Lichtendorf",
+            "city" : 8,
+            "level" : 2
+        },
+
+        {
+            "name" : "Lindenhorst",
+            "city" : 8,
+            "level" : 2
+        },
+
+        {
+            "name" : "Schanze",
+            "city" : 8,
             "level" : 2
         }
     ]
