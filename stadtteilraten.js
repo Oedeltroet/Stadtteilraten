@@ -1,3 +1,5 @@
+let debug = false;
+
 function loadJSON(callback) {   
 
     var obj = new XMLHttpRequest();
@@ -89,6 +91,63 @@ window.onload = function() {
     loadJSON(function(response) {
 
         db = JSON.parse(response);
+
+            // DATENBANKANALYSE (DEBUGMODUS)
+
+        if (debug) {
+
+            console.log("Analysiere Datenbank...");
+
+            let countArr = Array(db.Städte.length).fill().map(() => Array(db.Schwierigkeitslevel.length).fill(0));
+
+            for (let i = 0; i < db.Stadtteile.length - 1; i++) {
+
+                if (Array.isArray(db.Stadtteile[i].city)) {
+
+                    db.Stadtteile[i].city.forEach(n => {
+
+                        countArr[n][db.Stadtteile[i].level]++;
+                    });
+                }
+
+                else {
+
+                    countArr[db.Stadtteile[i].city][db.Stadtteile[i].level]++;
+                }
+
+                let stringToCheck = db.Stadtteile[i].name;
+
+                let instances = [];
+                instances.push(i);
+
+                for (let j = i + 1; j < db.Stadtteile.length; j++) {
+
+                    if (stringToCheck === db.Stadtteile[j].name) {
+
+                        instances.push(j);
+                    }
+                }
+
+                if (instances.length > 1) {
+
+                    console.error("Mehrere Vorkommen von " + stringToCheck + " gefunden: " + instances);
+                }
+            }
+
+            for (let i = 0; i < countArr.length; i++) {
+
+                let sum = 0;
+
+                for (let j = 0; j < countArr[i].length; j++) {
+
+                    sum += countArr[i][j];
+                }
+
+                console.log(db.Städte[i].name + ": " + sum + " (" + countArr[i] + ")");
+            }
+
+            console.log("Datenbankanalyse abgeschlossen.");
+        }
 
             // STAEDTE
 

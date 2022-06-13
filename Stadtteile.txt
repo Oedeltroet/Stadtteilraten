@@ -727,3 +727,50 @@ schwierig (8)
 - Lindenhorst
 - Schanze
 ! - Schönau
+
+ESSEN
+einfach
+- Altenessen
+- Überruhr
+mittel
+- Bedingrade
+- Bergeborbeck
+- Bergerhausen
+- Bochold
+- Borbeck
+- Bredeney
+- Byfang
+- Dellwig
+- Fischlaken
+- Freisenbruch
+- Frillendorf
+- Frintrop
+- Frohnhausen
+- Fulerum
+- Gerschede
+- Haarzopf
+- Heidhausen
+- Heisingen
+- Holsterhausen
+- Horst
+- Huttrop
+- Karnap
+- Katernberg
+- Kettwig
+- Kray
+- Kupferdreh
+- Leithe
+- Margarethenhöhe
+- Rellinghausen
+- Rüttenscheid
+- Schonnebeck
+- Schuir
+- Steele
+- Stoppenberg
+- Werden
+schwierig
+- Altendorf
+- Burgaltendorf
+- Schönebeck
+- Stadtwald
+- Vogelheim

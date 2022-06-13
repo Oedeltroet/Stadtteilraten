@@ -63,6 +63,13 @@
             "name" : "Dortmund",
             "population" : 587696,
             "image" : "https://upload.wikimedia.org/wikipedia/commons/f/f9/DEU_Dortmund_COA.svg"
+        },
+
+        {
+            "id" : 9,
+            "name" : "Essen",
+            "population" : 582415,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/8/82/DEU_Essen_COA.svg"
         }
     ],
 
@@ -709,18 +716,6 @@
         },
 
         {
-            "name" : "Bergedorf",
-            "city" : 1,
-            "level" : 0
-        },
-
-        {
-            "name" : "Billstedt",
-            "city" : 1,
-            "level" : 0
-        },
-
-        {
             "name" : "Blankenese",
             "city" : 1,
             "level" : 0
@@ -728,12 +723,6 @@
 
         {
             "name" : "Eimsbüttel",
-            "city" : 1,
-            "level" : 0
-        },
-
-        {
-            "name" : "Finkenwerder",
             "city" : 1,
             "level" : 0
         },
@@ -752,18 +741,6 @@
 
         {
             "name" : "Harburg",
-            "city" : 1,
-            "level" : 0
-        },
-
-        {
-            "name" : "Langenhorn",
-            "city" : 1,
-            "level" : 0
-        },
-
-        {
-            "name" : "Niendorf",
             "city" : 1,
             "level" : 0
         },
@@ -805,6 +782,12 @@
         },
 
         {
+            "name" : "Bergedorf",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
             "name" : "Bergstedt",
             "city" : 1,
             "level" : 1
@@ -818,6 +801,12 @@
 
         {
             "name" : "Billbrook",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Billstedt",
             "city" : 1,
             "level" : 1
         },
@@ -890,6 +879,12 @@
 
         {
             "name" : "Farmsen",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Finkenwerder",
             "city" : 1,
             "level" : 1
         },
@@ -991,6 +986,12 @@
         },
 
         {
+            "name" : "Langenhorn",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
             "name" : "Lemsahl",
             "city" : 1,
             "level" : 1
@@ -1046,6 +1047,12 @@
 
         {
             "name" : "Neuwerk",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Niendorf",
             "city" : 1,
             "level" : 1
         },
@@ -2001,7 +2008,7 @@
 
         {
             "name" : "Rath",
-            "city" : 3,
+            "city" : [3, 6],
             "level" : 1
         },
 
@@ -3044,12 +3051,6 @@
         },
 
         {
-            "name" : "Rath",
-            "city" : 6,
-            "level" : 0
-        },
-
-        {
             "name" : "Angermund",
             "city" : 6,
             "level" : 1
@@ -3135,7 +3136,7 @@
 
         {
             "name" : "Holthausen",
-            "city" : 6,
+            "city" : [6, 8],
             "level" : 1
         },
 
@@ -3300,12 +3301,6 @@
         },
 
         {
-            "name" : "Gohlis",
-            "city" : 7,
-            "level" : 0
-        },
-
-        {
             "name" : "Plagwitz",
             "city" : 7,
             "level" : 0
@@ -3361,6 +3356,12 @@
 
         {
             "name" : "Göbschelwitz",
+            "city" : 7,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gohlis",
             "city" : 7,
             "level" : 1
         },
@@ -3844,12 +3845,6 @@
         },
 
         {
-            "name" : "Holthausen",
-            "city" : 8,
-            "level" : 1
-        },
-
-        {
             "name" : "Holzen",
             "city" : 8,
             "level" : 1
@@ -4140,6 +4135,262 @@
         {
             "name" : "Schanze",
             "city" : 8,
+            "level" : 2
+        },
+
+
+
+
+
+        {
+            "name" : "Altenessen",
+            "city" : 9,
+            "level" : 0
+        },
+
+        {
+            "name" : "Überruhr",
+            "city" : 9,
+            "level" : 0
+        },
+
+        {
+            "name" : "Bedingrade",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bergeborbeck",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bergerhausen",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bochold",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Borbeck",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bredeney",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Byfang",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dellwig",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fischlaken",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Freisenbruch",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Frillendorf",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Frintrop",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Frohnhausen",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fulerum",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gerschede",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Haarzopf",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heidhausen",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Heisengen",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Holsterhausen",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Horst",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Huttrop",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Karnap",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Katernberg",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kettwig",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kray",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kupferdreh",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Leithe",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Margarethenhöhe",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rellinghausen",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rüttenscheid",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schonnebeck",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schuir",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Steele",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Stoppenberg",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Werden",
+            "city" : 9,
+            "level" : 1
+        },
+
+        {
+            "name" : "Altendorf",
+            "city" : 9,
+            "level" : 2
+        },
+
+        {
+            "name" : "Burgaltendorf",
+            "city" : 9,
+            "level" : 2
+        },
+
+        {
+            "name" : "Schönebeck",
+            "city" : 9,
+            "level" : 2
+        },
+
+        {
+            "name" : "Stadtwald",
+            "city" : 9,
+            "level" : 2
+        },
+
+        {
+            "name" : "Vogelheim",
+            "city" : 9,
             "level" : 2
         }
     ]
