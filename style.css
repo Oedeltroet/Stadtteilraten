@@ -37,6 +37,9 @@ hr {
 
 #staedte {
 
+    max-width: 80%;
+    margin-left: 10%;
+
     display: grid;
     grid-template-columns: repeat(auto-fit, 120px);
     grid-row-gap: 20px;

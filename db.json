@@ -70,6 +70,20 @@
             "name" : "Essen",
             "population" : 582415,
             "image" : "https://upload.wikimedia.org/wikipedia/commons/8/82/DEU_Essen_COA.svg"
+        },
+
+        {
+            "id" : 10,
+            "name" : "Bremen",
+            "population" : 566573,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/1/14/Bremen_Wappen.svg"
+        },
+
+        {
+            "id" : 11,
+            "name" : "Dresden",
+            "population" : 556227,
+            "image" : "https://upload.wikimedia.org/wikipedia/commons/7/74/Wappen_Dresden_DDR.svg"
         }
     ],
 
@@ -587,7 +601,7 @@
 
         {
             "name" : "Friedrichstadt",
-            "city" : [0, 6],
+            "city" : [0, 6, 11],
             "level" : 2
         },
 
@@ -951,7 +965,7 @@
 
         {
             "name" : "Horn",
-            "city" : 1,
+            "city" : [1, 10],
             "level" : 1
         },
 
@@ -1125,6 +1139,12 @@
 
         {
             "name" : "Sasel",
+            "city" : 1,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schlump",
             "city" : 1,
             "level" : 1
         },
@@ -1925,6 +1945,12 @@
         {
             "name" : "Lövenich",
             "city" : 3,
+            "level" : 1
+        },
+
+        {
+            "name" : "Marsdorf",
+            "city" : [3, 11],
             "level" : 1
         },
 
@@ -3656,7 +3682,7 @@
 
         {
             "name" : "Seehausen",
-            "city" : 7,
+            "city" : [7, 10],
             "level" : 2
         },
 
@@ -4378,7 +4404,7 @@
 
         {
             "name" : "Schönebeck",
-            "city" : 9,
+            "city" : [9, 10],
             "level" : 2
         },
 
@@ -4391,6 +4417,1118 @@
         {
             "name" : "Vogelheim",
             "city" : 9,
+            "level" : 2
+        },
+
+
+
+
+
+        {
+            "name" : "Utbremen",
+            "city" : 10,
+            "level" : 0
+        },
+
+        {
+            "name" : "Vegesack",
+            "city" : 10,
+            "level" : 0
+        },
+
+        {
+            "name" : "Werderland",
+            "city" : 10,
+            "level" : 0
+        },
+
+        {
+            "name" : "Arbergen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Arsten",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Aumund",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Barkhof",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Blockdiek",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Blockland",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bockhorn",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Borgfeld",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Buntentor",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ellenerbrok-Schevemoor",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ellener Feld",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fähr",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Farge",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Fesenfeld",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Findorff",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gartenstadt Süd",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gete",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Grambke",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Grohn",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Grolland",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gröpelingen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Habenhausen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hammersbeck",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hastedt",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hemelingen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hohentor",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hulsberg",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Huchting",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Huckelriede",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "In den Hufen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "In den Wischen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kattenesch",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lehe",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lehesterdeich",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lesum",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lobbendorf",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lüssum",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mahndorf",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oberneuland",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Obervieland",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ohlenhof",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oslebshausen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Osterfeuerberg",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Osterholz",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ostertor",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Peterswerder",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rablingshausen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rekum",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Riensberg",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rönnebeck",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schwachhausen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sebaldsbrück",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sodenmatt",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "St. Magnus",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Steintor",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Strom",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Tenever",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Überseestadt",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Vahr",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Walle",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Woltmershausen",
+            "city" : 10,
+            "level" : 1
+        },
+
+        {
+            "name" : "Blumenthal",
+            "city" : 10,
+            "level" : 2
+        },
+
+        {
+            "name" : "Lindenhof",
+            "city" : 10,
+            "level" : 2
+        },
+
+
+
+
+
+        {
+            "name" : "Blasewitz",
+            "city" : 11,
+            "level" : 0
+        },
+
+        {
+            "name" : "Cotta",
+            "city" : 11,
+            "level" : 0
+        },
+
+        {
+            "name" : "Dresdner Heide",
+            "city" : 11,
+            "level" : 0
+        },
+
+        {
+            "name" : "Prohlis",
+            "city" : 11,
+            "level" : 0
+        },
+
+        {
+            "name" : "Altfranken",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Borsberg",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Brabschütz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Briesnitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Bühlau",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Coschütz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Cossebaude",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Cunnersdorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dobritz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Dölzschen",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eichbusch",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Eschdorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Friedersdorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gittersee",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gomlitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gompitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gönnsdorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gorbitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gostritz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Großzschachwitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Gruna",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Helfenberg",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hellerau",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hellerberge",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hellersiedlung",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hechtviertel",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Hosterwitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kaditz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kaitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kauscha",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kemnitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kleinpestitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Kleinzschachwitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Klotzsche",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Krieschendorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Langebrück",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Laubegast",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lausa",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Leipziger Vorstadt",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Leuben",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Leubnitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Leuteritz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Leutewitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Löbtau",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Lockwitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Loschwitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Luga",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Malschendorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Merbitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Meußlitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mickten",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mobschatz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Mockritz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Naußlitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Neugruna",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Nickern",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Niederpoyritz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Niedersedlitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Niederwartha",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oberpoyritz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Oberwartha",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Ockerwitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Omsewitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Pappritz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Pennrich",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Pieschen",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Pillnitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Pirnaische Vorstadt",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Plauen",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Podemus",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Quohren",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Radeberger Vorstadt",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Räcknitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rähnitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Reick",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Reitzendorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rennersdorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rochnitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rockau",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Roitzsch",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Rossendorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schullwitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Seevorstadt",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Seidnitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Söbrigen",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Sporbitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Strehlen",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Stetzsch",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Striesen",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Tolkewitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Torna",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Trachau",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Trachenberge",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Übigau",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Unkersdorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wachwitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Weißer Hirsch",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Weißig",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Weixdorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wilschdorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wilsdruffer Vorstadt",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Wölfnitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zaschendorf",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zöllmen",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zschertnitz",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Zschieren",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Albertstadt",
+            "city" : 11,
+            "level" : 2
+        },
+
+        {
+            "name" : "Antonstadt",
+            "city" : 11,
+            "level" : 2
+        },
+
+        {
+            "name" : "Heidenhof",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Johannstadt",
+            "city" : 11,
+            "level" : 2
+        },
+
+        {
+            "name" : "Roßthal",
+            "city" : 11,
+            "level" : 2
+        },
+
+        {
+            "name" : "Schönborn",
+            "city" : 11,
+            "level" : 1
+        },
+
+        {
+            "name" : "Schönfeld",
+            "city" : 11,
+            "level" : 2
+        },
+
+        {
+            "name" : "Steinbach",
+            "city" : 11,
             "level" : 2
         }
     ]

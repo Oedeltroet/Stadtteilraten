@@ -1,10 +1,5 @@
-NICHT BEACHTET
-- Nord, Süd, Ost, West etc.
-- Zentrum, Mitte etc.
-- Altstadt, Neustadt, Vorstadt etc.
-
-	BERLIN (101)
-einfach (20)
+BERLIN
+einfach
 - Charlottenburg
 - Friedrichshain
 - Grunewald
@@ -25,7 +20,7 @@ einfach (20)
 - Treptow
 - Wannsee
 - Zehlendorf
-mittel (60)
+mittel
 - Adlershof
 - Altglienicke
 - Baumschulenweg
@@ -86,11 +81,11 @@ mittel (60)
 - Wedding
 - Wilmersdorf
 - Wittenau
-schwierig (21)
+schwierig
 - Bohnsdorf
 - Falkenberg
 - Friedrichstadt
-! - Grünau
+- Grünau
 - Heiligensee
 - Hirschgarten
 - Konradshöhe
@@ -109,8 +104,8 @@ schwierig (21)
 - Wilhelmstadt
 - Witzleben
 
-	HAMBURG (102)
-einfach (15)
+HAMBURG
+einfach
 - Altona
 - Barmbek
 - Bergedorf
@@ -126,7 +121,7 @@ einfach (15)
 - Poppenbüttel
 - St. Pauli
 - Wandsbek
-mittel (72)
+mittel
 - Allermöhe
 - Alsterdorf
 - Altengamme
@@ -199,7 +194,7 @@ mittel (72)
 - Wilstorf
 - Winterhude
 - Wohldorf
-schwierig (15)
+schwierig
 - Altenwerder
 - Bahrenfeld
 - Heimfeld
@@ -216,8 +211,8 @@ schwierig (15)
 - Waltershof
 - Wilhelmsburg
 
-	MÜNCHEN (60)
-einfach (10)
+MÜNCHEN
+einfach
 - Feldmoching
 - Fröttmaning
 - Hadern
@@ -228,7 +223,7 @@ einfach (10)
 - Perlach
 - Schwabing
 - Theresienhöhe
-mittel (40)
+mittel
 - Allach
 - Am Hart
 - Am Moosfeld
@@ -269,7 +264,7 @@ mittel (40)
 - Trudering
 - Untermenzing
 - Zamdorf
-schwierig (10)
+schwierig
 - Baumkirchen
 - Blumenau
 - Bogenhausen
@@ -281,14 +276,14 @@ schwierig (10)
 - Steinhausen
 - Westpark
 
-	KÖLN (85)
-einfach (5)
+KÖLN
+einfach
 - Chorweiler
 - Deutz
 - Ehrenfeld
 - Kalk
 - Porz
-mittel (69)
+mittel
 - Auweiler
 - Bayernthal
 - Bickendorf
@@ -358,29 +353,29 @@ mittel (69)
 - Worringen
 - Zollstock
 - Zündorf
-schwierig (11)
+schwierig
 - Blumenberg
 - Finkenberg
 - Höhenberg
-! - Lindenthal
+- Lindenthal
 - Marienburg
 - Neubrück
-! - Ostheim
+- Ostheim
 - Seeberg
 - Urbach
-! - Vogelsang
+- Vogelsang
 - Weiler
 - Weiß
 
-	FRANKFURT (38)
-einfach (6)
+FRANKFURT
+einfach
 - Bahnhofsviertel
 - Bockenheim
 - Heddernheim
 - Höchst
 - Niederrad
 - Sachsenhausen
-mittel (25)
+mittel
 - Berkersheim
 - Bonames
 - Eckenheim
@@ -406,17 +401,17 @@ mittel (25)
 - Sossenheim
 - Unterliederbach
 - Zeilsheim
-schwierig (6)
+schwierig
 - Bergen
 - Bornheim
 - Dornbusch
 - Hartheim
-! - Hausen
+- Hausen
 - Riedberg
 - Schwanheim
 
-	STUTTGART (104)
-einfach (8)
+STUTTGART
+einfach
 - Bad Cannstadt
 - Benzviertel
 - Feuerbach
@@ -425,7 +420,7 @@ einfach (8)
 - Stammheim
 - Untertürkheim
 - Vaihingen
-mittel (74)
+mittel
 - Asemwald
 - Birkach
 - Birkenäcker
@@ -500,18 +495,18 @@ mittel (74)
 - Winterhalde
 - Zazenhausen
 - Zuffenhausen
-schwierig (22)
+schwierig
 - Altenburg
 - Berg
 - Bergheim
 - Freiberg
 - Karlshöhe
-! - Hausen
+- Hausen
 - Hoffeld
 - Hohe Warte
 - Hohenheim
 - Mönchfeld
-! - Ostheim
+- Ostheim
 - Rosenberg
 - Rosental
 - Rot
@@ -519,17 +514,17 @@ schwierig (22)
 - Schönberg
 - Sonnenberg
 - Südheim
-! - Vogelsang
+- Vogelsang
 - Waldau
 - Weißenhof
 - Wolfbusch
 
-	DÜSSELDORF (47)
-einfach (3)
+DÜSSELDORF
+einfach
 - Benrath
 - Düsseltal
 - Rath
-mittel (38)
+mittel
 - Angermund
 - Bilk
 - Carlstadt
@@ -540,7 +535,7 @@ mittel (38)
 - Garath
 - Gerresheim
 - Golzheim
-! - Hamm
+- Hamm
 - Hassels
 - Heerdt
 - Hellerhof
@@ -568,18 +563,18 @@ mittel (38)
 - Volmerswerth
 - Wersten
 - Wittlaer
-schwierig (3)
-! - Friedrichstadt
+schwierig
+- Friedrichstadt
 - Grafenberg
-! - Hafen
+- Hafen
 - Unterbach
 
-	LEIPZIG (63)
-einfach (3)
+LEIPZIG
+einfach
 - Connewitz
 - Gohlis
 - Plagwitz
-mittel (45)
+mittel
 - Abtnaundorf
 - Althen
 - Baalsdorf
@@ -625,28 +620,28 @@ mittel (45)
 - Volkmarsdorf
 - Wahren
 - Zschocher
-schwierig (14)
+schwierig
 - Anger
 - Breitenfeld
 - Burghausen
 - Ehrenberg
 - Engelsdorf
-! - Grünau
+- Grünau
 - Hartmannsdorf
 - Hirschfeld
 - Holzhausen
 - Lindenau
-! - Lindenthal
+- Lindenthal
 - Marienbrunn
-! - Schönau
+- Schönau
 - Schönefeld
 - Seehausen
 - Sommerfeld
 
-DORTMUND (80)
-einfach (1)
+DORTMUND
+einfach
 - Lütgendortmund
-mittel (71)
+mittel
 - Altenderne
 - Aplerbeck
 - Asseln
@@ -718,15 +713,15 @@ mittel (71)
 - Wichlinghofen
 - Wickede
 - Wischlingen
-schwierig (8)
+schwierig
 - Berghofen
-! - Hafen
+- Hafen
 - Jungferntal
 - Kirchlinde
 - Lichtendorf
 - Lindenhorst
 - Schanze
-! - Schönau
+- Schönau
 
 ESSEN
 einfach
@@ -774,3 +769,203 @@ schwierig
 - Schönebeck
 - Stadtwald
 - Vogelheim
+
+BREMEN
+einfach
+- Utbremen
+- Vegesack
+- Werderland
+mittel
+- Arbergen
+- Arsten
+- Aumund
+- Barkhof
+- Blockdiek
+- Blockland
+- Bockhorn
+- Borgfeld
+- Buntentor
+- Ellenerbrok-Schevemoor
+- Ellener Feld
+- Fähr
+- Farge
+- Fesenfeld
+- Findorff
+- Gartenstadt Süd
+- Gete
+- Grambke
+- Grohn
+- Grolland
+- Gröpelingen
+- Habenhausen
+- Hammersbeck
+- Hastedt
+- Hemelingen
+- Hohentor
+- Horn
+- Hulsberg
+- Huchting
+- Huckelriede
+- In den Hufen
+- In den Wischen
+- Kattenesch
+- Kattenturm
+- Lehe
+- Lehesterdeich
+- Lesum
+- Lobbendorf
+- Lüssum
+- Mahndorf
+- Oberneuland
+- Obervieland
+- Ohlenhof
+- Oslebshausen
+- Osterfeuerberg
+- Osterholz
+- Ostertor
+- Peterswerder
+- Rablinghausen
+- Rekum
+- Riensberg
+- Rönnebeck
+- Schwachhausen
+- Sebaldsbrück
+- Sodenmatt
+- St. Magnus
+- Steintor
+- Strom
+- Tenever
+- Überseestadt
+- Vahr
+- Walle
+- Woltmershausen
+schwierig
+- Blumenthal
+- Lindenhof
+- Seehausen
+- Schönebeck
+
+DRESDEN
+einfach
+- Blasewitz
+- Cotta
+- Dresdener Heide
+- Prohlis
+mittel
+- Altfranken
+- Borsberg
+- Brabschütz
+- Briesnitz
+- Bühlau
+- Coschütz
+- Cossebaude
+- Cunnersdorf
+- Dobritz
+- Dölzschen
+- Eichbusch
+- Eschdorf
+- Friedersdorf
+- Gittersee
+- Gomlitz
+- Gompitz
+- Gönnsdorf
+- Gorbitz
+- Gostritz
+- Großzschachwitz
+- Gruna
+- Helfenberg
+- Hellerau
+- Hellerberge
+- Hellersiedlung
+- Hechtviertel
+- Hosterwitz
+- Kaditz
+- Kaitz
+- Kauscha
+- Kemnitz
+- Kleinpestitz
+- Kleinzschachwitz
+- Klotzsche
+- Krieschendorf
+- Langebrück
+- Laubegast
+- Lausa
+- Leipziger Vorstadt
+- Leuben
+- Leubnitz
+- Leuteritz
+- Leutewitz
+- Löbtau
+- Lockwitz
+- Loschwitz
+- Luga
+- Malschendorf
+- Marsdorf
+- Merbitz
+- Meußlitz
+- Mickten
+- Mobschatz
+- Mockritz
+- Naußlitz
+- Neugruna
+- Nickern
+- Niederpoyritz
+- Niedersedlitz
+- Niederwartha
+- Oberpoyritz
+- Oberwartha
+- Ockerwitz
+- Omsewitz
+- Pappritz
+- Pennrich
+- Pieschen
+- Pillnitz
+- Pirnaische Vorstadt
+- Plauen
+- Podemus
+- Quohren
+- Radeberger Vorstadt
+- Räcknitz
+- Rähnitz
+- Reick
+- Reitzendorf
+- Rennersdorf
+- Rochnitz
+- Rockau
+- Roitzsch
+- Rossendorf
+- Schullwitz
+- Seevorstadt
+- Seidnitz
+- Söbrigen
+- Sporbitz
+- Strehlen
+- Stetzsch
+- Striesen
+- Tolkewitz
+- Torna
+- Trachau
+- Trachenberge
+- Übigau
+- Unkersdorf
+- Wachwitz
+- Weißer Hirsch
+- Weißig
+- Weixdorf
+- Wilschdorf
+- Wilsdruffer Vorstadt
+- Wölfnitz
+- Zaschendorf
+- Zöllmen
+- Zschertnitz
+- Zschieren
+schwierig
+- Albertstadt
+- Antonstadt
+- Friedrichstadt
+- Heidehof
+- Johannstadt
+- Roßthal
+- Schönborn
+- Schönfeld
+- Steinbach
