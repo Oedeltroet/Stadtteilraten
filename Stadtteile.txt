@@ -969,3 +969,57 @@ schwierig
 - Schönborn
 - Schönfeld
 - Steinbach
+
+HANNOVER
+einfach
+- Herrenhausen
+mittel
+- Ahlem
+- Anderten
+- Badenstedt
+- Bemerode
+- Bornum
+- Bothfeld
+- Brink-Hafen
+- Bult
+- Calenberger Neustadt
+- Davenstedt
+- Döhren
+(- Döhrener Jammer)
+- Eilenriede
+- Groß-Buchholz
+- Hainholz
+- Heideviertel
+- Isernhagen-Süd
+- Kirchrode
+- Kleefeld
+- Körtingsdorf
+- Lahe
+- Ledeburg
+- Leinhausen
+- Limmer
+- Linden
+- List
+- Misburg
+- Oberricklingen
+- Ricklingen
+- Roderbruch
+- Sahlkamp
+- Schwarze Heide
+- Seelhorst
+- Stöcken
+- Vahrenheide
+- Vahrenwald
+- Vinnhorst
+- Wettbergen
+- Wülfel
+- Wülferode
+schwierig
+- Burg
+- Marienwerder
+- Mittelfeld
+- Mühlenberg
+- Nordhafen
+- Waldhausen
+- Waldheim
+- Zoo

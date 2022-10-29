@@ -25,6 +25,15 @@ function guess(element) {
     var cityname = element.firstChild;
     cityname.style.opacity = "1.0";
 
+    for (let i = 0; i < staedte.childElementCount; i++) {
+
+        if ((!Array.isArray(answer) && i != answer) || (Array.isArray(answer) && !answer.includes(i))) {
+
+            wrongCity = document.getElementById(i).children[1];
+            wrongCity.style.opacity = 0.1;
+        }
+    }
+
     if (element.id == answer || (Array.isArray(answer) && answer.includes(parseInt(element.id)))) {
 
         cityname.style.color = "rgb(0,200,0)";
@@ -44,12 +53,11 @@ function guess(element) {
         score = 0;
 
         var correctCity;
+        var wrongCity;
 
         if (Array.isArray(answer)) {
 
             answer.forEach(cityId => {
-
-                console.log(element.parentElement);
 
                 correctCity = document.getElementById(cityId).firstChild;
                 correctCity.style.opacity = 1.0;
@@ -60,6 +68,8 @@ function guess(element) {
         else {
 
             correctCity = document.getElementById(answer).firstChild;
+
+            // name of correct city blinks green
             correctCity.style.opacity = 1.0;
             correctCity.style.animation = "blink 1s steps(4, start) infinite";
         }
@@ -100,7 +110,7 @@ window.onload = function() {
 
             let countArr = Array(db.Städte.length).fill().map(() => Array(db.Schwierigkeitslevel.length).fill(0));
 
-            for (let i = 0; i < db.Stadtteile.length - 1; i++) {
+            for (let i = 0; i < db.Stadtteile.length; i++) {
 
                 if (Array.isArray(db.Stadtteile[i].city)) {
 
@@ -176,6 +186,11 @@ window.onload = function() {
                     window.setTimeout(function() {
 
                         td.firstChild.style = "";
+
+                        for (let i = 0; i < staedte.childElementCount; i++) {
+
+                            document.getElementById(i).children[1].style.opacity = 1.0;
+                        }
 
                         if (Array.isArray(answer)) {
 
